@@ -1,0 +1,13 @@
+{
+  "index": "Introduction",
+  "setup": "Installation",
+  "advanced": "Advanced (A Folder)",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page"
+  }
+}
